@@ -1,0 +1,7 @@
+echo "# 876543h" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/digreykri/876543h.git
+git push -u origin mainhttps://github.com/digreykri/876543h/pulse
